@@ -1,3 +1,4 @@
+![Recording 2025-11-29 174651](https://github.com/user-attachments/assets/7057fc8c-7c9c-4576-b3ce-4d4c858aec45)
 Nama : Andyka Zefanya Bramantyo
 NIM : H1H024039
 Shift Awal : C
