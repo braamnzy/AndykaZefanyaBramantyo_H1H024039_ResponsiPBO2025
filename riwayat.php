@@ -14,12 +14,19 @@ $riwayat = file_exists($filename) ? json_decode(file_get_contents($filename), tr
     <title>Riwayat Latihan Pokémon</title>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body class="riwayatbody">
+
     <div class="container-riwayat">
+
         <h2>Riwayat Latihan Pokémon</h2>
+
         <?php if (empty($riwayat)) : ?>
+
             <p>Belum ada riwayat latihan.</p>
+
         <?php else : ?>
+
             <table border="1" cellpadding="8" class="table-riwayat">
                 <thead>
                     <tr>
@@ -46,6 +53,7 @@ $riwayat = file_exists($filename) ? json_decode(file_get_contents($filename), tr
                     <?php endforeach; ?>
                 </tbody>
             </table>
+            
         <?php endif; ?>
 
         <button onclick="location.href='index.php'" class="btn">Kembali ke Beranda</button>

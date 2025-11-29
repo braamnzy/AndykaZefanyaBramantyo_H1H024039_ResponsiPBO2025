@@ -95,15 +95,13 @@
     height: 10px;
     background: #e0e0e0;
     border-radius: 10px;
-    margin-top: 5px;
 }
 
-.progress-fill {
+.progress-bar {
     height: 10px;
     background: #4a90e2;
     border-radius: 10px;
 }
-
 
 
 .table-riwayat{
@@ -136,5 +134,3 @@ button {
     color: white;
     border: none;
 }
-
-

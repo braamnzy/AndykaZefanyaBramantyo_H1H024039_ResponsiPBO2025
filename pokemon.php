@@ -102,6 +102,8 @@ class Squirtle extends Pokemon {
                 return "Jenis latihan tidak valid!";
         }
 
+        date_default_timezone_set('Asia/Jakarta');
+
         return [
             "jenis" => $jenis,
             "intensitas" => $intensitas,
