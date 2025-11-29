@@ -21,7 +21,9 @@ Penjelasan Kode & Aplikasi
   Halaman ini digunakan untuk menampilkan riwayat latihan Pokémon yang telah dilakukan.
   Riwayat disimpan dalam file JSON (riwayat.json).
 
-  Konsep OOP
+  - Tambahan: Saya menggunakan 2 Class dan 2 Objek untuk visualisasi Polimorfisme
+
+  Pilar OOP
   - Polimorfisme : Abstract Function yang diimplementasikan secara berbeda tiap Class di pokemon.php
   - Abstraksi : Class Pokemon di pokemon.php
   - Enkapsulasi : Atribut dan Method dalam 1 Class, memiliki access specifier
@@ -29,7 +31,13 @@ Penjelasan Kode & Aplikasi
 
 Cara Menjalankan Aplikasi 
   - Masuk ke Direktori Web disimpan
-  - Start session dengan php -S localhost:8000 di terminal
-  - Di web masuk ke http://localhost:8000/index.php
-
+  - Start session dengan php -S localhost:8000 di terminal.
+  - Di web masuk ke http://localhost:8000/index.php.
+  - Untuk Memulai, pilih Objek Pokemon yang akan dibuat (Polimorfisme).
+  - Secara default, tiap Objek memiliki informasi berbeda (tipe, HP, strength .dll).
+  - Klik mulai latihan / riwayat latihan / reset pokemon.
+  - Setelah mulai latihan, User dapat menentukan intensitas pelatihan dan jenis pelatihan.
+  - Secara default, tiap Objek memiiliki tingkat pelatihan yang berbeda (Chalizard prioritaskan Strength, Squirtle prioritaskan Durability)
+  - Setelah mulai latihan, User ditampilkan informasi pelatihan dan perubahan pada objek.
+  - Pada riwayat, ditampilkan daftar riwayat pada session saat anda membuka koneksi ke web tersebut.
 
