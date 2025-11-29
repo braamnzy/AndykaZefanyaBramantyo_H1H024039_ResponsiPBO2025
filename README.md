@@ -27,6 +27,7 @@ Penjelasan Kode & Aplikasi
   - Inheritance : Class Squirtle dan Chalizard mewarisi pokemon
 
 Cara Menjalankan Aplikasi 
+  - Masuk ke Direktori Web disimpan
   - Start session dengan php -S localhost:8000 di terminal
   - Di web masuk ke http://localhost:8000/index.php
 
