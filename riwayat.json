@@ -1,0 +1,58 @@
+[
+    {
+        "jenis": "strength",
+        "intensitas": "50",
+        "before": {
+            "level": 1,
+            "HP": 20
+        },
+        "after": {
+            "level": 3,
+            "HP": 120
+        },
+        "specialMove": "Squirtle memiliki kemampuan Strong Wave!",
+        "waktu": "2025-11-29 08:39:06"
+    },
+    {
+        "jenis": "strength",
+        "intensitas": "50",
+        "before": {
+            "level": 3,
+            "HP": 120
+        },
+        "after": {
+            "level": 5,
+            "HP": 220
+        },
+        "specialMove": "Squirtle memiliki kemampuan Strong Wave!",
+        "waktu": "2025-11-29 08:39:10"
+    },
+    {
+        "jenis": "strength",
+        "intensitas": "50",
+        "before": {
+            "level": 2,
+            "HP": 40
+        },
+        "after": {
+            "level": 4,
+            "HP": 140
+        },
+        "specialMove": "Zefanya memiliki kemampuan Fireball!",
+        "waktu": "2025-11-29 08:42:34"
+    },
+    {
+        "jenis": "strength",
+        "intensitas": "50",
+        "before": {
+            "level": 4,
+            "HP": 140
+        },
+        "after": {
+            "level": 6,
+            "HP": 240
+        },
+        "specialMove": "Zefanya memiliki kemampuan Fireball!",
+        "waktu": "2025-11-29 08:47:39"
+    }
+]
