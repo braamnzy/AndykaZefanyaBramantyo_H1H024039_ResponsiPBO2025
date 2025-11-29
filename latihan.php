@@ -1,6 +1,6 @@
 <?php
 //latihan.php by Zefanya
-require "Squirtle.php";
+require "pokemon.php";
 session_start();
 
 

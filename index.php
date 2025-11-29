@@ -1,6 +1,6 @@
 <?php
 //index.php by Zefanya
-require 'Squirtle.php';
+require 'pokemon.php';
 session_start();
 
 if (isset($_GET['reset'])) {
